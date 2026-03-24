@@ -7,6 +7,9 @@
 
 本项目主要用于配合 Claude Code / Claude MCP 客户端，通过 MCP 工具来抓取网页、解析正文、按 CSS 选择器抽取内容，以及根据英雄中文名获取皮肤大图封面链接（*.jpg）。
 
+图片地址
+https://pvp.qq.com/web201605/herolist.shtml
+
 ## 功能概览
 
 ### 1. 通用 Web 抓取工具

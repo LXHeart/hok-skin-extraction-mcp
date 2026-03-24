@@ -45,3 +45,12 @@
 - 美猴王 | data/pvp_skins/孙悟空/美猴王.jpg | https://game-1255653016.file.myqcloud.com/manage/compress/custom_wzry_A1/961da3c08526318a1cbcf62cc2b03a3b.jpg
 - 西部大镖客 | data/pvp_skins/孙悟空/西部大镖客.jpg | https://game-1255653016.file.myqcloud.com/manage/compress/custom_wzry_A1/3231eefd9816be150d303e489795bcaf.jpg
 - 地狱火 | data/pvp_skins/孙悟空/地狱火.jpg | https://game-1255653016.file.myqcloud.com/manage/compress/custom_wzry_A1/93eed3822bcb6b7739b12f101fe99dba.jpg
+
+[百里守约] | 2026-03-24T23:47:53.170Z
+- 雪豹·霜爪 | data/pvp_skins/百里守约/雪豹·霜爪.jpg | https://game-1255653016.file.myqcloud.com/manage/compress/custom_wzry_A1/c421c8456e95c3b4c05dbca4f2cc2b64.jpg
+- 百相守梦 | data/pvp_skins/百里守约/百相守梦.jpg | https://game-1255653016.file.myqcloud.com/manage/compress/custom_wzry_A1/c1359129e6e740f356ac0831191cd279.jpg
+- 真我赫兹 | data/pvp_skins/百里守约/真我赫兹.jpg | https://game-1255653016.file.myqcloud.com/manage/compress/custom_wzry_A1/59aca177e2d0de92dbfba0dfd4eee9dc.jpg
+- 碎云 | data/pvp_skins/百里守约/碎云.jpg | https://game-1255653016.file.myqcloud.com/manage/compress/custom_wzry_A1/bd4c8bd431a14d125dabdfb17d5b4acc.jpg
+- 朱雀志 | data/pvp_skins/百里守约/朱雀志.jpg | https://game-1255653016.file.myqcloud.com/manage/compress/custom_wzry_A1/4fce915261d0d89029a1ac95de1dbc73.jpg
+- 特工魅影 | data/pvp_skins/百里守约/特工魅影.jpg | https://game-1255653016.file.myqcloud.com/manage/compress/custom_wzry_A1/fa0fb5754b931f7d99bc8589684d0b59.jpg
+- 绝影神枪 | data/pvp_skins/百里守约/绝影神枪.jpg | https://game-1255653016.file.myqcloud.com/manage/compress/custom_wzry_A1/dc59b165d1652507ad1165c059fa596b.jpg
