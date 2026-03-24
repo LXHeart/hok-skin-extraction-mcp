@@ -1,0 +1,8 @@
+# Node / TypeScript
+node_modules/
+dist/
+
+# Claude / editor
+.claude/cache/
+.DS_Store
+*.log

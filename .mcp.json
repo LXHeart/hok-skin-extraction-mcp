@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "webfetch": {
+      "command": "node",
+      "args": ["dist/index.js"],
+      "cwd": "/Users/LXH/claude/websearch_mcp"
+    }
+  }
+}
