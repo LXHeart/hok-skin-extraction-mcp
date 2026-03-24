@@ -165,3 +165,12 @@ Keep this file updated if you:
 - Add new MCP tools.
 - Change how PVP data is parsed or displayed.
 - Introduce new skills under `.claude/skills/` that change the expected workflow.
+
+## Git workflow preferences
+
+- 当用户输入“提交”或“帮我提交”时，默认按照以下流程处理当前仓库中的改动：
+  1. 使用 `git status` 和 `git diff` 向用户展示将要提交的改动摘要。
+  2. 提示用户输入**中文**提交信息，或根据改动内容生成一个中文提交信息草案供用户确认或修改。
+  3. 使用用户确认后的中文提交信息执行 `git add` 和 `git commit`。
+  4. 在执行 `git push` 之前，再次将提交信息展示给用户，询问是否“使用该中文提交信息并推送到远端”；只有在用户明确确认后才执行 `git push`。
+- 在未得到用户确认前，不要自动执行 `git push`，也不要使用英文提交信息。
